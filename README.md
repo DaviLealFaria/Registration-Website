@@ -40,7 +40,7 @@ git clone https://github.com/xdavilealx/site-de-cadastro.git
 
 ## 🗂️ Estrutura de Pastas
 
-
+'''
 telas_de_site/
 │
 ├── index.html         # Página principal
@@ -52,7 +52,7 @@ telas_de_site/
 │   ├── icons8-usuário-16.png
 │   ├── password-lock.png
 │   └── phone-call.png
-
+'''
 
 ---
 
